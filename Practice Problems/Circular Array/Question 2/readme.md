@@ -13,5 +13,5 @@ no element exists that is greater than 6,
 6 is the first element to the circular-right of 5 that is greater than 5.
 
 <h2><b>Solution:</b></h2>
-  1. Needs 2 loop, one to travel through the given array, one to compare the value to the right ones.
+  1. Needs 2 loop, one to travel through the given array, one to compare the value to the right ones. <br>
   2. Need to break the 2nd loop if a suitable int is found
