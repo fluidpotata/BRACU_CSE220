@@ -1,8 +1,11 @@
 ### Final Question
 
 - <b> Question-01 </b> <br>
-a. Show the simulation of the following queue where + is enqued, # is dequeue and * is peek.<br>
-```           12+9+3+*#*7+#**#           ```                                               \[3 Marks] <br>
+a. Show the simulation of the following queue where + is enqued, # is dequeue and * is peek. [3 Marks]<br>
+```
+12+9+3+*#*7+#**#
+```
+<br>
 b. Suppose you're given an object created with class Enqueue. The class has enqueue(), dequeue(), peek() properly implemented. Write a python program that will remove the even elements from the queue. <br>
 Example: Given Queue: 3->2->6->5->7->9 <br>
 Result: 3->5->7->9 <br>                                  \[7 Marks]
